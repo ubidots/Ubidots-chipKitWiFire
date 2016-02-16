@@ -1,7 +1,5 @@
 # ChipKIT WiFire 
 
-![Ups!](../images/devices/chipKIT-WiFIRE-obl-600.png)
-
 The chipKIT family is based on the popular Arduino open-source hardware prototyping platform and adds the performance of the Microchip PIC microcontrollers.
 The WiFire is significantly faster than its WF32 counterpart, with 200MHz operation speed, 2MB of Flash, 512kB RAM, High Speed USB and a 50MHz SPI. The PIC32MZ core includes the MIPS MicroAptiv CPU, a highly efficient, compact, core that is optimized for cloud-connected based projects.
 Here you will lear how to post values to the Ubidots API using TCP method and HTTP method.
