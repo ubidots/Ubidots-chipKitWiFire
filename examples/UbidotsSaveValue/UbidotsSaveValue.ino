@@ -7,7 +7,7 @@
 #define SSIDWIFI "Your_WiFi_SSID_here"  // Put here your WiFi SSID
 #define PASS "Your_WiFi_PASS_here"  // Put here your WiFi password
 
-Ubidots ubidots(TOKEN);
+Ubidots client(TOKEN);
 
 void setup(){
     Serial.begin(9600);
