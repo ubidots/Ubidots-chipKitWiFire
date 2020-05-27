@@ -6,7 +6,7 @@
 #include <DEWFcK.h>
 
 #define PORT 80
-#define WEBSITE "things.ubidots.com"
+#define WEBSITE "industrial.api.ubidots.com"
 #define WiFiConnectMacro() deIPcK.wfConnect(szSsid, szPassPhrase)
 
 typedef struct Value {
